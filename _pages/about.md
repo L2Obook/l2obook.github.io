@@ -30,13 +30,13 @@ Publication by topic is available here and Publication by date is available at [
 
 #### Foundation Models/Deep Learning with Applications
 
-- Zikang Yu, Jinbiao Chen, Jiahai Wang*, Combination-of-expert with knowledge sharing for cross-task vehicle routing problems, ICLR 2026.
-
 - Zhaoyang Wang, Shaohan Huang, Yuxuan Liu, Jiahai Wang*, et al., Democratizing reasoning ability: Tailored learning from large language model, EMNLP 2023.
 
 - Jianpeng Zhou, Wanjun Zhong, Yanlin Wang, Jiahai Wang*, Adaptive-solver framework for dynamic strategy selection in large language model reasoning, Information Processing and Management, vol.62, no.3, 104052, May 2025.
 
-- Chenhui Liu, Jianpeng Zhou, Jiahai Wang*, Chain-of-relations: Faithful and efficient LLM reasoning over knowledge graphs via relation-centric exploration, ACL 2026.
+- Chenhui Liu, Jianpeng Zhou, Jiahai Wang*, Chain-of-relations: Faithful and efficient LLM reasoning over knowledge graphs via relation-centric exploration, ACL 2026 Findings.
+
+- Jianpeng Zhou, Qisheng Hu, Jiahai Wang*, Wenya Wang*, Policy-guided step-wise action planning for controllable LLM reasoning, ACL 2026 Findings.
   
 - Meixiu Long, Jiahai Wang*, Junxiao Ma, Jianpeng Zhou, Siyuan Chen, LLM-augmented entity alignment: An unsupervised and training-free framework, Neural Networks, vol.194, 108139, 2026.
 
@@ -47,6 +47,8 @@ Publication by topic is available here and Publication by date is available at [
 - Zhiyue Liu, Jiahai Wang*, Zhiwei Liang, “CatGAN: Category-aware generative adversarial networks with hierarchical evolutionary learning for category text generation,” AAAI 2020, vol.34, no.5, pp.8425-8432.
 
 #### Learning to Optimize/Neural Combinatorial Optimization with Applications
+
+- Zikang Yu, Jinbiao Chen, Jiahai Wang*, Combination-of-expert with knowledge sharing for cross-task vehicle routing problems, ICLR 2026.
 
 - Zhanhong Fang, Debing Wang, Jinbiao Chen, Jiahai Wang, Zizhen Zhang, UCPO: A universal constrained combinatorial optimization method via preference optimization, AAAI 2026.
   
