@@ -37,6 +37,8 @@ Publication by topic is available here and Publication by date is available at [
 - Chenhui Liu, Jianpeng Zhou, Jiahai Wang*, Chain-of-relations: Faithful and efficient LLM reasoning over knowledge graphs via relation-centric exploration, ACL 2026 Findings.
 
 - Jianpeng Zhou, Qisheng Hu, Jiahai Wang\*, Wenya Wang\*, Policy-guided step-wise action planning for controllable LLM reasoning, ACL 2026 Findings.
+
+-  Meixiu Long, Duolin sun, Dan Yang, Yihan Jiao, Lei Liu, Binbin Hu, Yue Shen, Jiahai Wang*, et al., GroupRank: A groupwise paradigm for effective and efficient passage reranking with LLMs, ACL Findings, 2026.
   
 - Meixiu Long, Jiahai Wang*, Junxiao Ma, Jianpeng Zhou, Siyuan Chen, LLM-augmented entity alignment: An unsupervised and training-free framework, Neural Networks, vol.194, 108139, 2026.
 
