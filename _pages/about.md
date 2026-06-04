@@ -50,6 +50,12 @@ Publication by topic is available here and Publication by date is available at [
 
 #### Learning to Optimize/Neural Combinatorial Optimization with Applications
 
+- Yi Chen, Zikang Yu, Jiahai Wang*, et al., Reinforcement learning enhanced LLM agents for complex vehicle routing problems, PPSN 2026.
+
+- Zhiyuan Chu, Zikang Yu, Jiahai Wang*, et al., PAEvo: Plan-algorithm evolution with LLMs for automatic heuristic design, PPSN 2026.
+ 
+- Yuanxu Yang, Zikang Yu, Jiahai Wang*, et al., Learning to solve complex constrained routing problems with feasibility-guided reward and diversity-guided policy, PPSN 2026.
+
 - Zikang Yu, Jinbiao Chen, Jiahai Wang*, Combination-of-expert with knowledge sharing for cross-task vehicle routing problems, ICLR 2026.
 
 - Zhanhong Fang, Debing Wang, Jinbiao Chen, Jiahai Wang, Zizhen Zhang, UCPO: A universal constrained combinatorial optimization method via preference optimization, AAAI 2026.
