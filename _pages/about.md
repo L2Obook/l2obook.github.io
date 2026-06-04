@@ -30,10 +30,6 @@ Publication by topic is available here and Publication by date is available at [
 
 #### Foundation Models/Deep Learning with Applications
 
-- Zhaoyang Wang, Shaohan Huang, Yuxuan Liu, Jiahai Wang*, et al., Democratizing reasoning ability: Tailored learning from large language model, EMNLP 2023.
-
-- Jianpeng Zhou, Wanjun Zhong, Yanlin Wang, Jiahai Wang*, Adaptive-solver framework for dynamic strategy selection in large language model reasoning, Information Processing and Management, vol.62, no.3, 104052, May 2025.
-
 - Chenhui Liu, Jianpeng Zhou, Jiahai Wang*, Chain-of-relations: Faithful and efficient LLM reasoning over knowledge graphs via relation-centric exploration, ACL 2026 Findings.
 
 - Jianpeng Zhou, Qisheng Hu, Jiahai Wang\*, Wenya Wang\*, Policy-guided stepwise action planning for controllable LLM reasoning, ACL 2026 Findings.
@@ -41,6 +37,10 @@ Publication by topic is available here and Publication by date is available at [
 -  Meixiu Long, Duolin sun, Dan Yang\*, Yihan Jiao, Lei Liu, Jiahai Wang*, et al., GroupRank: A groupwise paradigm for effective and efficient passage reranking with LLMs, ACL 2026 Findings.
   
 - Meixiu Long, Jiahai Wang*, Junxiao Ma, Jianpeng Zhou, Siyuan Chen, LLM-augmented entity alignment: An unsupervised and training-free framework, Neural Networks, vol.194, 108139, 2026.
+
+- Jianpeng Zhou, Wanjun Zhong, Yanlin Wang, Jiahai Wang*, Adaptive-solver framework for dynamic strategy selection in large language model reasoning, Information Processing and Management, vol.62, no.3, 104052, May 2025.
+
+- Zhaoyang Wang, Shaohan Huang, Yuxuan Liu, Jiahai Wang*, et al., Democratizing reasoning ability: Tailored learning from large language model, EMNLP 2023.
 
 - Siyuan Chen, Xin Du, Jiahai Wang*, A hierarchical framework with spatio-temporal consistency learning for emergence detection in complex adaptive systems, IEEE Transactions on Neural Networks and Learning Systems, vol.36, no.7, pp.13373-13386, July 2025.
 
