@@ -16,7 +16,7 @@ profile:
 
 **Optimization and Learning Lab., Sun Yat-sen University, P.R. China**
 
-Research interests include 1) **Foundation Models/Deep Learning**; 2) **Learn to Optimize (Neural Combinatorial Optimization, Foundation Models for Optimization and Automatic Algorithm Design)**; and 3) **Intelligent Optimization Algorithms/Meta-Heuristics** and their **Applications**.
+Research interests include 1) **Foundation Models/Deep Learning**; 2) **Learning to Optimize (Neural Combinatorial Optimization, Foundation Models for Optimization and Automatic Algorithm Design)**; and 3) **Intelligent Optimization Algorithms/Meta-Heuristics** and their **Applications**.
 
 ### Monograph
 
@@ -48,7 +48,7 @@ Publication by topic is available here and Publication by date is available at [
 
 - Zhiyue Liu, Jiahai Wang*, Zhiwei Liang, “CatGAN: Category-aware generative adversarial networks with hierarchical evolutionary learning for category text generation,” AAAI 2020, vol.34, no.5, pp.8425-8432.
 
-#### Learn to Optimize (Neural Combinatorial Optimization, Foundation Models for Optimization and Automatic Algorithm Design)
+#### Learning to Optimize (Neural Combinatorial Optimization, Foundation Models for Optimization and Automatic Algorithm Design)
 
 - Yi Chen, Zikang Yu, Jiahai Wang*, et al., Reinforcement learning enhanced LLM agents for complex vehicle routing problems, PPSN 2026.
 
