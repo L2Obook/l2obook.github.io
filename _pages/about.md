@@ -46,6 +46,14 @@ Publication by topic is available here and Publication by date is available at [
 
 - Siyuan Chen, Jiahai Wang*, Heterogeneous interaction modeling with reduced accumulated error for multi-agent trajectory prediction, IEEE Transactions on Neural Networks and Learning Systems, vol.35, no.6, pp.8084-8052, June 2024.
 
+- Xiaopeng Zheng, Zhiyue Liu, Zizhen Zhang, Zhaoyang Wang, Jiahai Wang*, UECA-Prompt: Universal prompt for emotion cause analysis, COLING 2022.
+
+- Wanjun Zhong, Junjie Huang, Qian Liu, Min Zhou, Jiahai Wang, Jian Yin, Nan Duan, Reasoning over hybrid chain for table-and-text open domain question answering, IJCAI 2022.
+
+- Siyuan Chen, Jiahai Wang*, Guoqing Li, Neural relational inference with efficient message passing mechanisms, AAAI 2021.
+
+- Wanjun Zhong, Jingjing Xu, Duyu Tang, Zenan Xu, Nan Duan, Ming Zhou, Jiahai Wang, Jian Yin, Reasoning over semantic-level graph for fact checking, ACL 2020.
+
 - Zhiyue Liu, Jiahai Wang*, Zhiwei Liang, “CatGAN: Category-aware generative adversarial networks with hierarchical evolutionary learning for category text generation,” AAAI 2020, vol.34, no.5, pp.8425-8432.
 
 #### Learning to Optimize (Neural Combinatorial Optimization, Foundation Models for Optimization and Automatic Algorithm Design)
