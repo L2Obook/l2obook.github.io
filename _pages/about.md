@@ -82,28 +82,28 @@ Publication by topic is available here and Publication by date is available at [
 
 - Jieyi Bi, Yining Ma, Jiahai Wang\*, Zhiguang Cao\*, Jinbiao Chen, Yuan Sun, Yeow Meng Chee, Learning generalizable models for vehicle routing problems via knowledge distillation, NeurIPS 2022.
 
-- Jiahai Wang, Yalan Zhou, Jian Yin, Yunong Zhang, “Competitive Hopfield network combined with estimation of distribution for maximum diversity problems,” IEEE Transactions on Systems, Man, and Cybernetics-Part B: Cybernetics, vol.39, no.4, pp.1048-1066, Aug. 2009.
+- Jiahai Wang, Yalan Zhou, Jian Yin, Yunong Zhang, Competitive Hopfield network combined with estimation of distribution for maximum diversity problems, IEEE Transactions on Systems, Man, and Cybernetics-Part B: Cybernetics, vol.39, no.4, pp.1048-1066, Aug. 2009.
 
-- Jiahai Wang, “Hopfield neural network based on estimation of distribution for two-page crossing number problem,” IEEE Transactions on Circuits and Systems II: Express Briefs, vol.55, no.8, pp.797-801, 2008. 
+- Jiahai Wang, Hopfield neural network based on estimation of distribution for two-page crossing number problem, IEEE Transactions on Circuits and Systems II: Express Briefs, vol.55, no.8, pp.797-801, 2008. 
 
 #### Intelligent Optimization Algorithms/Meta-Heuristics with Applications
 
-- Jiahai Wang, Liangsheng Yuan, Zizhen Zhang, Shangce Gao, Yuyan Sun, Yalan Zhou, “Multiobjective multiple neighborhood search algorithms for multiobjective fleet size and mix location-routing problem with time windows,” IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol.51.no.4, pp.2284-2298, 2021.
+- Jiahai Wang, Liangsheng Yuan, Zizhen Zhang, Shangce Gao, Yuyan Sun, Yalan Zhou, Multiobjective multiple neighborhood search algorithms for multiobjective fleet size and mix location-routing problem with time windows, IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol.51.no.4, pp.2284-2298, 2021.
 
-- Jiahai Wang, Wenbin Ren, Zizen Zhang, Han Huang, Yuren Zhou, “A hybrid multiobjective memetic algorithm for multiobjective periodic vehicle routing problem with time windows,” IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol.50, no.11, pp.4732-4745, Nov. 2020.
+- Jiahai Wang, Wenbin Ren, Zizen Zhang, Han Huang, Yuren Zhou, A hybrid multiobjective memetic algorithm for multiobjective periodic vehicle routing problem with time windows, IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol.50, no.11, pp.4732-4745, Nov. 2020.
 
-- Xueming Yan, Han Huang, Zhifeng Hao, Jiahai Wang, “A graph-based fuzzy evolutionary algorithm for solving two-echelon vehicle routing problems,” IEEE Transactions on Evolutionary Computation, vol.24, no.1, pp.129-141, Feb. 2020.
+- Xueming Yan, Han Huang, Zhifeng Hao, Jiahai Wang, A graph-based fuzzy evolutionary algorithm for solving two-echelon vehicle routing problems,” IEEE Transactions on Evolutionary Computation, vol.24, no.1, pp.129-141, Feb. 2020.
 
-- Jiahai Wang, Taiyao Weng, Qingfu Zhang, “A two-stage multiobjective evolutionary algorithm for multiobjective multi-depot vehicle routing problem with time windows,” IEEE Transactions on Cybernetics, vol.49, no.7, pp.2467-2478, 2019.
+- Jiahai Wang, Taiyao Weng, Qingfu Zhang, A two-stage multiobjective evolutionary algorithm for multiobjective multi-depot vehicle routing problem with time windows, IEEE Transactions on Cybernetics, vol.49, no.7, pp.2467-2478, 2019.
  
-- Jiahai Wang, Ying Zhou, Yong Wang, Jun Zhang, C.L. Philip Chen, and Zibin Zheng, “Multiobjective vehicle routing problems with simultaneous delivery and pickup and time windows: formulation, instances and algorithms,” IEEE Transactions on Cybernetics, vol.46, no.3, pp.582-594, 2016. 
+- Jiahai Wang, Ying Zhou, Yong Wang, Jun Zhang, C.L. Philip Chen, and Zibin Zheng, Multiobjective vehicle routing problems with simultaneous delivery and pickup and time windows: formulation, instances and algorithms, IEEE Transactions on Cybernetics, vol.46, no.3, pp.582-594, 2016. 
 
-- Jiahai Wang, Yanyue Li, Qingfu Zhang, Zizhen Zhang, Shangce Gao, “Cooperative multiobjective evolutionary algorithm with propulsive population for constrained multiobjective optimization,” IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol.52, no.6, pp.3476-3491, 2022.
+- Jiahai Wang, Yanyue Li, Qingfu Zhang, Zizhen Zhang, Shangce Gao, Cooperative multiobjective evolutionary algorithm with propulsive population for constrained multiobjective optimization, IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol.52, no.6, pp.3476-3491, 2022.
 
-- Jiahai Wang, Binzhong Chen, Shangce Gao, Zizhen Zhang, Yuren Zhou, “Cooperative evolutionary framework with focused search for many-objective optimization,” IEEE Transactions on Emerging Topics in Computational Intelligence, vol.4, no.3, pp.398-412, June 2020
+- Jiahai Wang, Binzhong Chen, Shangce Gao, Zizhen Zhang, Yuren Zhou, Cooperative evolutionary framework with focused search for many-objective optimization, IEEE Transactions on Emerging Topics in Computational Intelligence, vol.4, no.3, pp.398-412, June 2020
 
-- Jiahai Wang, Guanxi Liang, Jun Zhang, “Cooperative differential evolution framework for constrained multiobjective optimization,” IEEE Transactions on Cybernetics, vol.49, no.6, pp.2060-2072, June 2019.
+- Jiahai Wang, Guanxi Liang, Jun Zhang, Cooperative differential evolution framework for constrained multiobjective optimization, IEEE Transactions on Cybernetics, vol.49, no.6, pp.2060-2072, June 2019.
 
-- Jiahai Wang, Jianjun Liao, Ying Zhou, Yiqiao Cai, “Differential evolution enhanced with multiobjective sorting based mutation operators,” IEEE Transactions on Cybernetics, vol.44, no.12, pp.2792-2805, 2014. 
+- Jiahai Wang, Jianjun Liao, Ying Zhou, Yiqiao Cai, Differential evolution enhanced with multiobjective sorting based mutation operators, IEEE Transactions on Cybernetics, vol.44, no.12, pp.2792-2805, 2014. 
 
-- Yiqiao Cai, Jiahai Wang*, “Differential evolution with neighborhood and direction information for numerical optimization,” IEEE Transactions on Cybernetics, vol.43, no.6, pp.2202-2215, Dec. 2013. 
+- Yiqiao Cai, Jiahai Wang*, Differential evolution with neighborhood and direction information for numerical optimization, IEEE Transactions on Cybernetics, vol.43, no.6, pp.2202-2215, Dec. 2013. 
