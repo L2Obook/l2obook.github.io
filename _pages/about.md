@@ -16,7 +16,7 @@ profile:
 
 **Optimization and Learning Lab., Sun Yat-sen University, P.R. China**
 
-Research interests include 1) **Foundation Models/Deep Learning**; 2) **Learning to Optimize (Neural Combinatorial Optimization, Foundation Models for Optimization and Automatic Algorithm Design)**; and 3) **Intelligent Optimization Algorithms/Meta-Heuristics** and their **Applications**.
+Research interests include 1) **Foundation Models/Deep Learning**; 2) **Learning to Optimize (Foundation Models for Optimization/Automatic Algorithm Design, Neural Combinatorial Optimization)**; and 3) **Intelligent Optimization Algorithms/Meta-Heuristics** and their **Applications**.
 
 ### Monograph
 
