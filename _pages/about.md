@@ -56,7 +56,7 @@ Publication by topic is available here and Publication by date is available at [
 
 - Zhiyue Liu, Jiahai Wang*, Zhiwei Liang, CatGAN: Category-aware generative adversarial networks with hierarchical evolutionary learning for category text generation, AAAI 2020, vol.34, no.5, pp.8425-8432.
 
-#### Learning to Optimize (Neural Combinatorial Optimization, Foundation Models for Optimization and Automatic Algorithm Design)
+#### Learning to Optimize  with Applications (Foundation Models for Optimization/Automatic Algorithm Design, Neural Combinatorial Optimization)
 
 - Yi Chen, Zikang Yu, Jiahai Wang*, et al., Reinforcement learning enhanced LLM agents for complex vehicle routing problems, PPSN 2026.
 
